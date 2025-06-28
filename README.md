@@ -64,4 +64,3 @@ iss-dashboard/
 ##  Author
 
 **Sinuhe Villegas**  
-[GitHub](https://github.com/sinuhevillegas)
