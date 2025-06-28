@@ -2,6 +2,10 @@
 
 A real-time Streamlit app that tracks the current location of the International Space Station (ISS), displays the astronauts on board, and shows NASA's Astronomy Picture of the Day.
 
+## Link to Dashboard
+[View the app on Streamlit](https://issdashboard-bheaabtwsy8exwel7mvkrb.streamlit.app/)
+
+
 ## Features
 
 - Real-time ISS location using Open Notify API
