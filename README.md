@@ -41,9 +41,6 @@ NASA_API_KEY=your_actual_key_here
 ```bash
 streamlit run app.py
 ```
-
-Then open [http://localhost:8501](http://localhost:8501) in your browser.
-
 ---
 
 ##  APIs Used
@@ -64,7 +61,7 @@ iss-dashboard/
 └── README.md            # Project documentation
 ```
 
-## 🧠 Author
+##  Author
 
 **Sinuhe Villegas**  
 [GitHub](https://github.com/sinuhevillegas)
